@@ -1,5 +1,3 @@
-# Command :
-```
 #termux-setup-storage
 rm -rf enc
 > pkg update
@@ -9,4 +7,3 @@ rm -rf enc
 > git clone 
 > cd encript
 > python2 enc.py
-```
