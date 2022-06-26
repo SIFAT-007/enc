@@ -14,5 +14,5 @@
 
 √ cd enc
 
-√ python enc.py
+√ python2 enc.py
 ```
