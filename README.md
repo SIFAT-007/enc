@@ -1,5 +1,5 @@
 #termux-setup-storage
-rm -rf enc
+#rm -rf enc
 > pkg update
 > pkg upgrade
 > pkg install git
