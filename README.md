@@ -10,7 +10,7 @@
 
 √ pkg install python2
 
-√ git clone https://github.com/Cybersifat/enc
+√ git clone https://github.com/SIFAT-007/enc
 
 √ cd enc
 
